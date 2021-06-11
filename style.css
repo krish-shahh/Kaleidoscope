@@ -24,7 +24,7 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  position: relative;
+  position: absolute;
   /*z-index: 1; */
 }
 a:link {
