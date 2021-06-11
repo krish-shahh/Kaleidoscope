@@ -16,6 +16,17 @@ h2 {
     font-size: 20px;
     color: coral;
 }
+footer {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* position: fixed;
+  z-index: 1; */
+}
 
 .gallery{
     min-height: 100vh;
