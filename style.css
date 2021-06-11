@@ -24,8 +24,8 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  /* position: fixed;
-  z-index: 1; */
+  position: relative;
+  /*z-index: 1; */
 }
 a:link {
   color: coral;
