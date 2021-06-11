@@ -45,7 +45,11 @@ a:hover {
 a:active {
   color: coral;
 }
-
+#logo{ 
+	position:fixed; 
+	top:0; 
+	left:0; 
+} 
 .gallery{
     min-height: 100vh;
     background:#eee;
