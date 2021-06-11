@@ -48,7 +48,7 @@ a:active {
 .corner-ribbon{
   width: 200px;
   background: #e43;
-  position: relative;
+  position: absolute;
   top: 25px;
   left: -50px;
   text-align: center;
@@ -59,7 +59,7 @@ a:active {
   -webkit-transform: rotate(-45deg);
 }
 .corner-ribbon.sticky{
-  position: relative;
+  position: absolute;
 }
 .corner-ribbon.top-left{
   top: 25px;
