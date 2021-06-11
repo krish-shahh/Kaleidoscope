@@ -27,6 +27,12 @@ footer {
   /* position: fixed;
   z-index: 1; */
 }
+.link
+{
+   color:coral;
+   text-decoration: none; 
+   background-color: none;
+}
 
 .gallery{
     min-height: 100vh;
