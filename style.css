@@ -168,15 +168,16 @@ a:active {
     bottom: 0px;
     right: 0px; 
     padding: 20px;
+    line-height: 50%;
 }
 .roundedFixedBtn{
   height: 60px;
-  line-height: 80px;  
+  line-height: 50%;  
   width: 60px;  
   font-size: 2em;
   font-weight: bold;
   border-radius: 50%;
-  background-color: #4CAF50;
+  background-color: #coral;
   color: white;
   text-align: center;
   cursor: pointer;
